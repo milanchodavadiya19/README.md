@@ -4,7 +4,7 @@
 
 - 💙 I want to be Robotics software engineer 👨‍💻 who is passionate about Robotic technologies and Artificial Intelligence.
 - 🌱 I am student of Mechatronic and Cyber-Physical System in Deggendorf Institute of Technology, Germany
-- 🍀 Curretly doing an internship in TK Elevator, Baden-württemberg Germany.
+- 🍀 Curretly I doing an internship in TK Elevator, Baden-württemberg Germany.
 - 🤔 I’m looking for Working Student / Internship / Thesis / Full-time job.
 - 🔭 I’m currently working on ROS, Python, C++  and MATLAB.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/milan-chodavadiya-2a9487188/)
